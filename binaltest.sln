@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "binaltest", "binaltest\binaltest.sqlproj", "{F09C49FA-E825-4AEC-97E3-32943479FF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09C49FA-E825-4AEC-97E3-32943479FF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09C49FA-E825-4AEC-97E3-32943479FF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09C49FA-E825-4AEC-97E3-32943479FF05}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F09C49FA-E825-4AEC-97E3-32943479FF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09C49FA-E825-4AEC-97E3-32943479FF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09C49FA-E825-4AEC-97E3-32943479FF05}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06D7C40-B349-419A-8B02-50EA6239689D}
+	EndGlobalSection
+EndGlobal
